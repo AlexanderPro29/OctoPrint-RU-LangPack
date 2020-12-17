@@ -5,3 +5,5 @@
 OctoPrint-i18n-ru_20200314184628.zip для версии OctoPrint 1.4.0
 
 OctoPrint-i18n-ru_20200824174214.zip для версии OctoPrint 1.4.2+
+
+OctoPrint-i18n-ru_20201217095043.zip для версии OctoPrint 1.5.2+
