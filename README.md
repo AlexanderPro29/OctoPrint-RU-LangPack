@@ -19,4 +19,5 @@ OctoPrint-i18n-ru_20201217103638.zip для версии OctoPrint 1.5.2+
 Более новые версии перевода доступны в Релизах!
 
 BTC адрес для донатов: 3KdDdJvLBzDLniiAaapnLNePV6ro8Jz6Bw
+
 ETH адрес для донатов: 0x3Db3A0f232F4AFb19165B57B9753d5031760CB54
